@@ -1,0 +1,4 @@
+purple: #820AD1
+black: #191919
+grey: #F5F5F5
+white: #FFFFFF
